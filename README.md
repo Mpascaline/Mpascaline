@@ -9,7 +9,7 @@ I'm a web developer specializing in creating user-friendly applications and real
 
 ## My Projects
 - [ToDo App](https://github.com/Mpascaline/todo-app) - A mobile-friendly task management application
-- Brief description
+  helps people to keep track of their daily tasks. The app looks beautiful and is easy to use.
 
 ## Currently Learning
 - Javascript
