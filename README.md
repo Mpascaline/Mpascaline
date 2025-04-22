@@ -1,11 +1,12 @@
  Hello There, I'm Pascaline 👋
 
-I'm a web developer specializing in creating user-friendly applications and really Enjoy creting websites.
+I'm a web developer: Creates the visual parts of websites and web applications
 
 ## My Skills
-- HTML, CSS, JavaScript and React
+- HTML, CSS/SCSS, JavaScript and React
 - Mobile-responsive design 
 - User interface development
+- Git/GitHub
 
 ## My Projects
 - [ToDo App](https://github.com/Mpascaline/todo-app) - A mobile-friendly task management application
