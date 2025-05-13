@@ -8,10 +8,6 @@ I'm a web developer: Creates the visual parts of websites and web applications
 - User interface development
 - Git/GitHub
 
-## My Projects
-- [ToDo App](https://github.com/Mpascaline/todo-app) - A mobile-friendly task management application
-  helps people to keep track of their daily tasks. The app looks beautiful and is easy to use.
-
 ## Currently Learning
 - Javascript
 - React.js
