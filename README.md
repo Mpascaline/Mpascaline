@@ -1,16 +1,19 @@
  Hello There, I'm Pascaline 👋
 
-I'm a web developer: Creates the visual parts of websites and web applications
+I'm a Front-End Web Developer focused on crafting clean, responsive, and user-friendly interfaces for websites and web applications.
 
-## My Skills
-- HTML, CSS/SCSS, JavaScript and React
-- Mobile-responsive design 
-- User interface development
-- Git/GitHub
+ 🛠️ Technical Skills
+- HTML, CSS / SCSS, JavaScript (ES6+), React
 
-## Currently Learning
-- Javascript
-- React.js
+- Responsive and mobile-first design
+
+- UI implementation and component-based development
+
+- Version control with Git and GitHub
+
+📚 Currently Exploring
+- Typescript
+- python
 - Node.js
 
 ## Contact Me
